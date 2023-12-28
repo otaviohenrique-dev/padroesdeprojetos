@@ -1,0 +1,9 @@
+builder\BurguerBuilder.class
+com\studyglobar\padroesdeprojetos\PadroesDeProjetos.class
+builder\Demo.class
+com\studyglobar\padroesdeprojetos\PadroesDeProjetos$ThreadFoo2.class
+com\studyglobar\padroesdeprojetos\PadroesDeProjetos$ThreadFoo.class
+singleton\Printer.class
+builder\Burguer.class
+builder\CheeseBurguerBuilder.class
+builder\Gerente.class
